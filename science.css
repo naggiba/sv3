@@ -1,0 +1,49 @@
+body{
+  background-color:#CDF2CA;
+}
+
+.main-heading {
+color:#fff;
+}
+
+h1{
+  font-family: serif;
+  font-weight: lighter;
+  color:#1C7947;
+
+}
+
+TD {
+color:#1C7947;
+text-align: center;
+font-family: serif;
+line-height: 250%;
+font-style: italic;
+}
+
+
+a{
+  display: block;
+  background:#9CC094;
+  padding: 15px 20px;
+  text-decoration: none;
+  color:#fff;
+  font-family: serif;
+  border-radius: 10px;
+  text-align: center;
+
+}
+hr {
+border: none;
+border-top: dotted;
+color:#6ECB63;
+border-width: 20px;
+width: 10%
+
+
+}
+h2{
+  font-family: serif;
+  font-weight: lighter;
+  color:#1C7947;
+}
